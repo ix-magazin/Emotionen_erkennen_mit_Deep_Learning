@@ -1,4 +1,4 @@
-# Emotionen_erkennen_mit_DeepLearning
+# Emotionen_erkennen_mit_Deep_Learning
 Jupyter-Notebook zum [Sonderheft-Artikel](https://www.heise.de/select/ix/2023/13/2303012133185967521) von Tim Wüllner und Oliver Zeigermann erschienen im iX [Special 2023](https://www.heise.de/select/ix/2023/13/).
 
 # iX-tract
